@@ -1,0 +1,35 @@
+body {
+    background-image: url(../images/gaming-pattern/gaming-pattern.png);
+    font-family:'Audiowide', cursive;
+}
+
+#jumbobackground {
+    background-image: url(../images/jumbotronbackground.gif);
+    background-position: -50px
+}
+
+.bannertext {
+    color: #6d0397;
+    
+}
+
+.bannertextbg {
+    background-color: #acacac9a;
+    border-radius: 20px
+}
+
+#startbutton {
+    text-align: center;
+    color: #6d0397;
+    background-color:#acacac9a;
+    border-radius: 20px;
+    position: absolute;
+    width: 150px; 
+    margin-left: -75px; 
+    left:50%
+    
+}
+
+.row {
+    text-align: center; 
+}
