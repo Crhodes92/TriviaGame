@@ -1,6 +1,7 @@
 body {
     background-image: url(../images/gaming-pattern/gaming-pattern.png);
     font-family:'Audiowide', cursive;
+    line-height: 1.5
 }
 
 #jumbobackground {
